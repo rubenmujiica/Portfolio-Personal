@@ -23,7 +23,7 @@ INSERT INTO experiences (job_title, company_name, start_date, end_date, descript
     ('Web Developer (Internship)', 'Asociación Las Canteras', '2024-03-01', '2024-06-15', 'Web support and hosting management. Technologies: Wordpress, CSS', 1);
 
 INSERT INTO projects (title, description, image_url, project_url, personal_info_id) VALUES
-    ('Gestor de Gastos', 'Aplicación personal para llevar un control de mis gastos personales. Java & SpringBoot, React + TypeScript','img/projects/gestor-gastos.png', 'https://github.com/rubenmujiica/TFG-EyeTracking-RubenMujicaSanchez.git', 1),
+    ('Gestor de Gastos', 'Aplicación personal para llevar un control de mis gastos personales. Java & SpringBoot, React + TypeScript','img/projects/gestor-gastos.png', 'https://github.com/rubenmujiica/Gestor-de-Gastos.git', 1),
     ('Trabajo de Fin de Grado', 'Plataforma de Eye Tracking basado en webcam. Python & JavaScript', 'img/projects/eyetrack.png', 'https://github.com/rubenmujiica/TFG-EyeTracking-RubenMujicaSanchez.git', 1),
     ('Gaboral Stock', 'Plataforma para la gestión de stock de un almacén. PHP/Laravel', 'img/projects/stock.png', 'https://github.com/rubenmujiica/Gaboral-Stock.git', 1),
     ('Pokeshop', 'Plataforma de compra-venta de cartas Pokemon. PHP/Laravel', 'img/projects/poke.png', 'https://github.com/rubenmujiica/PokeShow.git', 1),
